@@ -1,0 +1,17 @@
+{
+  "name": "npm-test",
+  "version": "0.0.1",
+  "description": "this is test project for NPM PACKAGE development",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "test",
+    "package"
+  ],
+  "author": "AMAD IRFAN",
+  "license": "MIT",
+  "dependencies": {}
+}
